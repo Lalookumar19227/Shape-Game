@@ -25,6 +25,13 @@ public class User {
 				t2.getTotalSurfaeArea();
 				break;
 		}
+			System.out.println("hellooooooo");
+			System.out.println("hellooooooo");
+			System.out.println("hellooooooo");
+			System.out.println("hellooooooo");
+			System.out.println("hellooooooo");
+
+
 		System.out.println("Press Y/y to continue or other cgaracter to EXIT!!");
 		c=sc.next().charAt(0);
 		}while(c=='Y' || c=='y');
